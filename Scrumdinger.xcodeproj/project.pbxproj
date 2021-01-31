@@ -65,12 +65,12 @@
 			isa = PBXGroup;
 			children = (
 				886CE58525C533280027A36E /* ScrumdingerApp.swift */,
-				88F6CCF925C572100024408C /* Models */,
+				886CE58725C533280027A36E /* MeetingView.swift */,
 				88F6CCFD25C573110024408C /* CardView.swift */,
+				8849520925C5DAC500D2AC48 /* ScrumsView.swift */,
 				8849520E25C5E2DC00D2AC48 /* DetailView.swift */,
 				887E2F8925C6BC410098515C /* EditView.swift */,
-				886CE58725C533280027A36E /* MeetingView.swift */,
-				8849520925C5DAC500D2AC48 /* ScrumsView.swift */,
+				88F6CCF925C572100024408C /* Models */,
 				886CE58925C533280027A36E /* Assets.xcassets */,
 				886CE58E25C533280027A36E /* Info.plist */,
 				886CE58B25C533280027A36E /* Preview Content */,
